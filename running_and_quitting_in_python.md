@@ -1,3 +1,3 @@
-# installed jupiter lab
-# opend and closed jupiter lab
-# did first steps in python
+I installed jupiter lab.
+I opend and closed jupiter lab.
+I did first steps in python.
